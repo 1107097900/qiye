@@ -1,0 +1,155 @@
+@charset "utf-8";
+@import url("styles2.css");
+* {
+	margin:0  ;
+	padding:o ;
+	font-size:13px;
+	color:#999;
+	font-family:"微软雅黑";
+	
+}
+a{font-size:13px;
+	color:#999;
+	font-family:"微软雅黑";
+	text-decoration:none;}
+.all{
+	width:896px;
+	margin:0 auto;
+}
+.header{
+	background:url(images/9_03.png)  no-repeat 10px;
+	height:47px;
+	margin-top:40px; 
+	
+}
+.header ul{
+	float:right;
+	list-style:none;
+	margin-right:40px;
+}
+.header li{
+	float:left;
+	margin-top:40px;
+}
+.header a{
+	margin:0  10px;
+	text-decoration:none;
+	color:#333;}
+.banner{
+	background:url(images/9_13.gif)	 no-repeat ;
+	height:136px;
+	position: relative;
+	top:70px;
+	border-top:#CE3537 solid 5px;
+	}
+
+
+.side_a{
+	
+	position:relative;
+top:180px;
+background:url(images/9_20.png) no-repeat;
+height:174px;
+width:238px;}
+
+.side_a  form{
+	color:#D8342D;
+	padding: 0 20px;
+	padding-bottom:20px;
+	
+	
+}
+.side_a h3{
+	border-bottom:#D8342D solid 2px;
+width:230px;
+color:#D8342D;
+margin-bottom:10px;
+padding:10px 0;
+text-indent:1em;
+}
+
+.side_a .dl{
+	text-align: center;
+	width:230px;
+	padding-bottom:10px;
+	
+}
+.side_aa h3{background:url(images/9_23.gif)  no-repeat   ;
+
+height:36px;
+border-bottom:#CCC solid 2px;
+
+padding-bottom:0;
+color:#333;
+text-indent:1em;
+
+
+}
+.side_aa  img{
+	padding-right:10px;}
+.side_aa form{
+	border-bottom:#CCC solid 1px;
+	padding:10px 20px;
+	margin-left:20px;
+	color: #666;
+	
+}
+.side_aa{
+	border:#CCC solid 1px;
+	width:230px;}
+.side_b{
+	position: relative;
+	width:420px;
+	left:260px;
+	right:210px;
+	height:400px;
+	
+	}
+.side_b form {
+	line-height:2.3em;
+	}
+	.side_b img{
+		margin-right:10px;
+	}
+.side_b h3{
+	border-bottom: #999 solid 1px;
+	padding: 10px 0;
+	
+}
+.side_b p{
+	color:#666;
+	text-indent:2em;}
+.side_b span{
+	margin-left:20px;
+	font-size: xx-small;
+}
+.side_b a{
+	color:#333;
+	font-size:14px;
+	margin:10px 0;
+	
+}
+.side_b .more{
+	float:right;
+	color:#F00;
+	font-size:12px;}
+.side_c{
+	position: relative;
+	right:0px;
+	width:195px;
+	left:701px;
+	top:-400px;
+}
+.footer{
+	position:absolute;
+	bottom:0;
+	top:700px;
+	padding-top:20px;
+	border-top:#CCC solid 1px;
+	width:896px;
+	text-align:center;
+	color:#666;}
+
+	
+
+	
